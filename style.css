@@ -1,0 +1,19 @@
+body{
+    background-color: #ffffff;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
+.button  a {
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    border-radius: 10px;
+}
